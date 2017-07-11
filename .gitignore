@@ -1,0 +1,15 @@
+V2/data/contacts.csv
+V2/config/hunter_apis.json
+V2/config/proxies.json
+V2/config/maps_keys.json
+old
+.idea
+exports/*
+V2/exports/*
+V2/assets/kompass.html
+data/keys-*
+assets/scrapping/kompass.html
+scrapper-ajax.php
+scrapper.php
+vendor
+V2/data/*

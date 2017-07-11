@@ -1,0 +1,13 @@
+{
+    "require": {
+        "thiagoalessio/tesseract_ocr": "1.0.0-RC",
+        "catalisio/email-hunter-php": "^2.0",
+        "symfony/http-foundation": "^3.2",
+        "layershifter/tld-extract": "^1.2",
+        "paquettg/php-html-parser": "^1.7",
+        "serps/core": "^0.2.0",
+        "serps/search-engine-google": "^0.2.0",
+        "serps/http-client-curl": "^0.2.0",
+        "serps/http-client-phantomjs": "^0.2.0"
+    }
+}
